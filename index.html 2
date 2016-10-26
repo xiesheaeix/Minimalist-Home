@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta name="Shea Ehrenberger" content="Minimalist Style Interior Design">
+   <title>Minimalist Home Design</title>
+   <link href="https://fonts.googleapis.com/css?family=Poiret+One: 100, 200, 300, 400, 500" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css 2" >
+ </head>
+
+<body>
+<div id="container">
+  <div class="header"> 
+    <h1>Minimalist Home</h1>
+  </div>
+
+  <div class="subheader">
+    <h2>Minimalist design has been described as design at its most basic, stripped of superfluous elements, colors, shapes and textures. From a visual standpoint, minimalist design is meant to be calming and to bring the mind down to the basics.</h2>
+   </div>
+
+ <div id="photogallery">
+  <div class="photo left">
+    <img src="images2/black-white-livingroom.jpg" alt="Black and White Minimalist Living Room"> 
+  </div>
+
+  <div class="photo">
+    <img src="images2/colorful.jpg" alt="Colorful Zen Style Living Room">
+  </div>
+
+  <div class="photo left">
+    <img src="images2/white-living-room.jpg" alt="Pure White Decorated Living Room">
+  </div>
+
+  <div class="photo">
+    <img src="images2/staircase.jpg" alt="Beautiful Minimal Style Living Room with Spiral Staircase">
+  </div>
+ </div>
+
+   <div id="footer">
+     <p id="copyright">&copy; Shea Ehrenberger / Minimalist Design </p>
+     <p id="top"><a href="#">^Back to the Top^</a></p>
+   </div>
+ </div>
+
+</body>
+</html>
